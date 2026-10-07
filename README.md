@@ -1,4 +1,5 @@
 # coleta-campo-offline
+[![CI](https://github.com/Mateusmfmd/coleta-campo-offline/actions/workflows/ci.yml/badge.svg)](https://github.com/Mateusmfmd/coleta-campo-offline/actions/workflows/ci.yml)
 
 MVP Expo/React Native para coleta de dados em campo com formulário, GPS opcional, armazenamento offline e exportação GeoJSON. Foi pensado para levantamentos de geografia em locais sem conexão confiável.
 
